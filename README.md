@@ -101,8 +101,11 @@ developer = {
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/tulesh-katre-13981b246/
-* Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
+💼 LinkedIn: https://www.linkedin.com/in/tulesh-katre-13981b246/
+
+📧 Email: tuleshkatre592@gmail.com
+
+🚀 Naukri: https://www.naukri.com/mnjuser/profile?id=&altresid
 
 ---
 
