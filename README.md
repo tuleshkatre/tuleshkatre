@@ -107,8 +107,8 @@ A Django REST Framework backend covering registration, profiles, partner prefere
 | Languages | Python, SQL |
 | Backend | FastAPI, Django, Django REST Framework, REST APIs, WebSockets |
 | GenAI | LangChain, LangGraph, LangSmith, RAG, agentic workflows, prompt engineering |
-| Retrieval | pgvector, semantic search, embeddings, cross-encoder reranking, citation grounding |
-| Data | PostgreSQL, MySQL, ChromaDB |
+| Vector Search | pgvector, ChromaDB, semantic search, embeddings, cross-encoder reranking, citation grounding |
+| Databases | PostgreSQL, MySQL |
 | Security | JWT, refresh tokens, RBAC, tenant isolation, input validation, safe SQL |
 | Integrations | OCR, AI APIs, Google Drive API, payment gateways |
 | DevOps | Docker, GitHub Actions, AWS EC2, ECS Fargate, ECR, Linux, Prometheus |
