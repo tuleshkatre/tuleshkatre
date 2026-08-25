@@ -2,12 +2,13 @@
 
 # Hi, I'm Tulesh Katre 👋
 
-### Python Backend Developer · FastAPI · Django · Enterprise GenAI & RAG
+### Python Backend Developer · FastAPI · Django · GenAI & RAG Engineer
 
 I build secure backend platforms and AI-powered applications with production-oriented APIs, retrieval pipelines, agentic workflows, and PostgreSQL.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tulesh_Katre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulesh-katre-13981b246/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuleshkatre592@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-View_Profile-4A90E2?style=for-the-badge)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![Location](https://img.shields.io/badge/Location-Indore%2C_India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Indore)
 
 </div>
@@ -138,6 +139,7 @@ I'm interested in teams building backend platforms, AI-enabled products, enterpr
 
 - **LinkedIn:** [linkedin.com/in/tulesh-katre-13981b246](https://www.linkedin.com/in/tulesh-katre-13981b246/)
 - **Email:** [tuleshkatre592@gmail.com](mailto:tuleshkatre592@gmail.com)
+- **Naukri:** [View my Naukri profile](https://www.naukri.com/mnjuser/profile?id=&altresid)
 - **Location:** Indore, Madhya Pradesh, India
 
 <div align="center">
