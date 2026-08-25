@@ -67,10 +67,6 @@ flowchart LR
 
 ## Other Project Experience
 
-### DocIntel AI / Document Intelligence
-
-An AI-powered document platform centered on PDF ingestion, semantic search, document-grounded question answering, streaming responses, and scalable FastAPI services. The work demonstrates end-to-end ownership of ingestion, retrieval, generation, source attribution, and deployment concerns.
-
 ### MedNobAI
 
 Healthcare document and family-record management built with **FastAPI, PostgreSQL, pgvector, OCR, and AI APIs**. It supports prescription, laboratory-report, and document workflows, OCR-based extraction, AI-assisted search, Google Drive integration, and reminders.
