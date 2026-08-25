@@ -2,7 +2,7 @@
 
 # Hi, I'm Tulesh Katre 👋
 
-### Python Backend Developer · FastAPI · Django · GenAI & RAG Engineer
+### Python Backend Developer · FastAPI · Django · GenAI & RAG
 
 I build secure backend platforms and AI-powered applications with production-oriented APIs, retrieval pipelines, agentic workflows, and PostgreSQL.
 
