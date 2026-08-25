@@ -25,7 +25,7 @@ My core work includes REST API design, JWT authentication, role-based access con
 - 🔐 Focused on authentication, authorization, validation, testing, and maintainable architecture
 - 💬 Experienced with WebSockets, chat, notifications, payment gateways, OCR, and third-party integrations
 - ☁️ Deploying containerized Python applications using Docker and AWS
-- 🧠 Using LangGraph, LangSmith, pgvector, and RAG as complementary backend capabilities
+- 🧠 Using **LangChain, LangGraph, LangSmith, pgvector, and RAG** as complementary capabilities for building AI-enabled backend systems
 - 🤝 Open to **Python Backend Developer** roles and backend-focused AI product teams
 
 ## Flagship Project — AI Assistant
