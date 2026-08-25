@@ -19,17 +19,17 @@ I build secure backend platforms and AI-powered applications with production-ori
 
 I'm a Python Backend Developer with **2 years of professional experience** building REST APIs and production backend systems using Python, Django REST Framework, FastAPI, PostgreSQL, and MySQL.
 
-My work spans secure authentication, role-based access, WebSocket communication, payments, OCR, AI integrations, vector search, Docker, and AWS deployments. I am currently applying that backend foundation to **enterprise GenAI engineering**—multi-agent orchestration, grounded RAG, conversational memory, safe analytics, observability, and evaluation.
+My work spans secure authentication, role-based access, WebSocket communication, payment gateway integrations, OCR, AI integrations, vector search, Docker, and AWS deployments. I am currently applying that backend foundation to **GenAI engineering**—multi-agent orchestration, grounded RAG, conversational memory, safe analytics, observability, and evaluation.
 
-- 🔭 Building **Enterprise AI Assistant**, a secure multi-agent GenAI platform
+- 🔭 Building **AI Assistant**, a secure multi-agent GenAI platform
 - 🧠 Working with **LangGraph, LangSmith, pgvector, RAG, SQL agents, and memory systems**
 - ⚙️ Focused on clean APIs, tenant isolation, observability, testing, and deployment
 - ☁️ Experienced with Docker and AWS EC2; implementing an ECS Fargate deployment pipeline
 - 🤝 Open to **Python Backend Developer** and **AI/GenAI Engineer** opportunities
 
-## Flagship Project — Enterprise AI Assistant
+## Flagship Project — AI Assistant
 
-> A secure, observable multi-agent platform for enterprise knowledge retrieval, analytics, and conversational intelligence.
+> A secure, observable multi-agent platform for knowledge retrieval, analytics, and conversational intelligence.
 
 This project goes beyond a basic chatbot. A LangGraph supervisor routes requests to specialized document, web, SQL, calculator, conversation, and memory agents. Responses are grounded in retrieved evidence, support true token streaming, preserve tenant boundaries, and expose production telemetry through LangSmith and application metrics.
 
@@ -59,7 +59,7 @@ flowchart LR
 - **Safe SQL analytics:** natural-language query generation, allowlisted relations, tenant-scoped CTEs, SELECT-only validation, and bounded results
 - **Three-layer memory:** recent conversation context, incremental summary memory, and consent-based cross-conversation facts
 - **True streaming:** plain-text token streaming over Server-Sent Events with separate source metadata
-- **Enterprise security:** JWT authentication, RBAC-oriented design, tenant isolation, rate limiting, SQL protection, and trace sanitization
+- **Application security:** JWT authentication, RBAC-oriented design, tenant isolation, rate limiting, SQL protection, and trace sanitization
 - **Observability:** LangSmith node traces plus rewrite, embedding, retrieval, rerank, SQL, LLM, and total-request latency metrics
 - **Quality engineering:** unit, API, integration, retrieval-quality, citation, routing, memory, SQL-safety, and streaming evaluations
 - **Deployment:** Docker, GitHub Actions CI, Prometheus metrics, and an AWS ECR/ECS Fargate deployment blueprint
@@ -76,7 +76,7 @@ Healthcare document and family-record management built with **FastAPI, PostgreSQ
 
 ### Matrimonial Platform
 
-A Django REST Framework backend covering registration, profiles, partner preferences, interests, subscriptions, match scoring, real-time chat, notifications, payments, verification, filters, JWT authentication, and role-based access control.
+A Django REST Framework backend covering registration, profiles, partner preferences, interests, subscriptions, match scoring, real-time chat, notifications, payment gateway integration, verification, filters, JWT authentication, and role-based access control.
 
 ## Professional Experience
 
@@ -88,7 +88,7 @@ A Django REST Framework backend covering registration, profiles, partner prefere
 - Implement JWT authentication, role-based access control, and secure validation
 - Build WebSocket-based chat, unread-message tracking, and notification workflows
 - Design MySQL/PostgreSQL models and optimize ORM queries
-- Integrate payments, OCR, AI services, and Google Drive
+- Integrate payment gateways, OCR, AI services, and Google Drive
 - Deploy and manage containerized applications on AWS EC2
 
 ### Intern Python Backend Developer · Precious Infosystem Pvt. Ltd.
@@ -103,13 +103,13 @@ A Django REST Framework backend covering registration, profiles, partner prefere
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, SQL, JavaScript basics |
+| Languages | Python, SQL |
 | Backend | FastAPI, Django, Django REST Framework, REST APIs, WebSockets |
 | GenAI | LangChain, LangGraph, LangSmith, RAG, agentic workflows, prompt engineering |
 | Retrieval | pgvector, semantic search, embeddings, cross-encoder reranking, citation grounding |
-| Data | PostgreSQL, MySQL, MongoDB, ChromaDB |
+| Data | PostgreSQL, MySQL, ChromaDB |
 | Security | JWT, refresh tokens, RBAC, tenant isolation, input validation, safe SQL |
-| Integrations | OCR, AI APIs, Google Drive API, payments |
+| Integrations | OCR, AI APIs, Google Drive API, payment gateways |
 | DevOps | Docker, GitHub Actions, AWS EC2, ECS Fargate, ECR, Linux, Prometheus |
 | Engineering | Pytest, API testing, evaluation datasets, observability, performance metrics |
 
@@ -135,7 +135,7 @@ SKITM, Indore · 2019–2023
 
 ## Let's Connect
 
-I'm interested in teams building backend platforms, AI-enabled products, enterprise search, document intelligence, and agentic systems.
+I'm interested in teams building backend platforms, AI-enabled products, intelligent search, document intelligence, and agentic systems.
 
 - **LinkedIn:** [linkedin.com/in/tulesh-katre-13981b246](https://www.linkedin.com/in/tulesh-katre-13981b246/)
 - **Email:** [tuleshkatre592@gmail.com](mailto:tuleshkatre592@gmail.com)
