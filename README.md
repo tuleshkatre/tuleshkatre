@@ -17,15 +17,16 @@ I build secure backend platforms and AI-powered applications with production-ori
 
 ## About Me
 
-I'm a Python Backend Developer with **2 years of professional experience** building REST APIs and production backend systems using Python, Django REST Framework, FastAPI, PostgreSQL, and MySQL.
+I'm a Python Backend Developer with **2 years of professional experience** building secure, maintainable backend systems for web and mobile applications using Python, Django REST Framework, FastAPI, PostgreSQL, and MySQL.
 
-My work spans secure authentication, role-based access, WebSocket communication, payment gateway integrations, OCR, AI integrations, vector search, Docker, and AWS deployments. I am currently applying that backend foundation to **GenAI engineering**—multi-agent orchestration, grounded RAG, conversational memory, safe analytics, observability, and evaluation.
+My core work includes REST API design, JWT authentication, role-based access control, database modeling, ORM optimization, WebSocket communication, notifications, payment gateway integrations, OCR, Google Drive integrations, Docker, and AWS deployments. I also build AI-enabled backend features such as document search, RAG, vector retrieval, and agentic workflows when they solve a real product requirement.
 
-- 🔭 Building **AI Assistant**, a secure multi-agent GenAI platform
-- 🧠 Working with **LangGraph, LangSmith, pgvector, RAG, SQL agents, and memory systems**
-- ⚙️ Focused on clean APIs, tenant isolation, observability, testing, and deployment
-- ☁️ Experienced with Docker and AWS EC2; implementing an ECS Fargate deployment pipeline
-- 🤝 Open to **Python Backend Developer** and **AI/GenAI Engineer** opportunities
+- ⚙️ Building scalable APIs and database-backed services with FastAPI and Django REST Framework
+- 🔐 Focused on authentication, authorization, validation, testing, and maintainable architecture
+- 💬 Experienced with WebSockets, chat, notifications, payment gateways, OCR, and third-party integrations
+- ☁️ Deploying containerized Python applications using Docker and AWS
+- 🧠 Using LangGraph, LangSmith, pgvector, and RAG as complementary backend capabilities
+- 🤝 Open to **Python Backend Developer** roles and backend-focused AI product teams
 
 ## Flagship Project — AI Assistant
 
